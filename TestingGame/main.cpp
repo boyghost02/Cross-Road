@@ -10,7 +10,7 @@ private:
 
 public:
 	Menu() : choose_(0) {};
-
+	int x = 0;
 	void Up()
 	{
 		if (choose_ > 0 && choose_ <= 4)

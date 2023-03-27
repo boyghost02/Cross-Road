@@ -10,6 +10,7 @@ class Sprite
 private:
 	int height, width;
 	std::vector<std::vector<char>> sprt;
+	//test merge request
 public:
 	Sprite();
 

@@ -6,7 +6,7 @@ class Player
 private:
 	int x_, y_;
 	bool state_;
-
+	int abc;
 public:
 	Player() : x_(39), y_(28), state_(true)
 	{

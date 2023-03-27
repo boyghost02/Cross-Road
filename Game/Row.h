@@ -24,7 +24,7 @@ private:
 	bool isFromRight; // true if Row from right
 	bool isRedLight; // true if Row has red light
 	std::vector <Entity*> inhabitance; // list of entities on row
-
+	//rearas
 public:
 	std::random_device gen;
 	Row(int y); // DEFAULT

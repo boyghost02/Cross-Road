@@ -9,7 +9,7 @@ class Entity
 private:
 	static Sprite* sprtRight;
 	static Sprite* sprtLeft;
-
+	int abas;
 protected:
 	COORD coord;
 
