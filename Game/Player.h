@@ -14,8 +14,6 @@ private:
 
 	static Sprite* playerSprt;
 
-	//test 2
-
 public:
 	// Maybe change this the default location
 	Player();

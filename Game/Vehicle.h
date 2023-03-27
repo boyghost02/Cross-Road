@@ -18,8 +18,6 @@ class Car : public Vehicle
 private:
 	static Sprite* carSprtRight;
 	static Sprite* carSprtLeft;
-
-	//test 2
 public:
 	Car(int x, int y);
 
